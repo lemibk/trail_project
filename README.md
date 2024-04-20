@@ -1,12 +1,12 @@
 # The trail project
-## about the project
+## About the project
 This project is aimed to help us understand the branches of gitgub,pull requests ,readme files and to make us able to understand the basic things in the github and the process of web programming.
 ## Built with 
 The main program i used in this project is vs code 
 ## Key Features
 In this trail project i have done near to nothing. the only feature this project has is the color of the heading and background of the html code
 ## Live demo
-this project has no live demo
+This project has no live demo
 ## Getting Started
 this is just the scratch of the scratch of web programming.
 ### prerequisites
