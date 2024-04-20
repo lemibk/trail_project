@@ -10,8 +10,8 @@ this project has no live demo
 ## Getting Started
 this is just the scratch of the scratch of web programming.
 ### prerequisites
-[Visual Studio code ](https://code.visualstudio.com/download)
-[.git](https://git-scm.com/downloads)
+[Visual Studio code ](https://code.visualstudio.com/download) <br /> 
+[.git](https://git-scm.com/downloads) <br /> 
 [Node js](https://nodejs.org/en/download/current) recommended to use the version your instructor uses
 
 
