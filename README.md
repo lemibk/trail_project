@@ -7,25 +7,7 @@ The main program i used in this project is vs code
 In this trail project i have done near to nothing. the only feature this project has is the color of the heading and background of the html code
 ## Live demo
 This project has no live demo
-<html>
-  <head>  
-    <link rel="stylesheet" href="c.css">
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
-    <h1> the things i want to do</h1>
-    <body>
-        <p> i just want to say that i'm practising this things 
-            i want to know this so bad
-        </p>
 
-
-    </body>
-
-
-
-
-
-</html>
 ## Getting Started
 this is just the scratch of the scratch of web programming.
 ### prerequisites
